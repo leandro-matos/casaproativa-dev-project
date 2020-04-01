@@ -16,7 +16,7 @@ $ git clone https://github.com/leandro-matos/casaproativa-dev-project.git
 
 Entre na pasta do projeto:
 ```sh
-$ D:\projetos\casaproativa-dev-project
+$ cd casaproativa-dev-project
 ```
 Instale as dependências:
 ```sh
