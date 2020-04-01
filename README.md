@@ -3,7 +3,7 @@
 
 Esta aplicação tem como objetivo conectar pessoas durante esse período de crise listando as principais atividades que podem ser realizadas para driblar o tédio diário.
 
-A mesma foi desenvolvida na **Semana Omnistack 11.0**, e compõe backend, frontend e mobile do projeto.
+A mesma foi desenvolvida na **Semana Omnistack 11.0**, e compõe backend e frontend do projeto.
 
 ---
 
