@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CASA CRIATIVA
 ## Semana Omnistack:
 
@@ -32,10 +31,3 @@ $ npm start
 
 Leandro de Matos Pereira
 leandromatpereira@hotmail.com
-=======
-# casaproativa-dev-project
-
-Project developed during the omnistack week using the very front-end principle:
-
-- HTML, CSS, Javascript, Node, sqlite.
->>>>>>> 2a3ada6bfd632082139b4029a4c04b32b2dfe380
